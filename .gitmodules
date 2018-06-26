@@ -1,0 +1,6 @@
+[submodule "src/ros-labView"]
+	path = src/ros-labView
+	url = https://github.com/byteofsoren/MAST-ros-labView.git
+[submodule "src/ros-labView-dummy"]
+	path = src/ros-labView-dummy
+	url = https://github.com/byteofsoren/MAST-ros-labView-dummy.git
