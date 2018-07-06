@@ -4,6 +4,6 @@
 [submodule "src/ros-labView-dummy"]
 	path = src/ros_labview_dummy
 	url = https://github.com/byteofsoren/MAST-ros-labView-dummy.git
-[submodule "src/gps_umd"]
-	path = src/gps_umd
-	url = https://github.com/byteofsoren/gps_umd.git
+[submodule "src/camera_pub"]
+	path = src/camera_pub
+	url = https://github.com/byteofsoren/MAST-ros-image-publisher.git
